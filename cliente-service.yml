@@ -13,4 +13,4 @@ spring:
     show-sql: true
 
 mensaje:
-  texto: Configuración obtenida desde Config Server para Cliente Service
+  texto: Configuración DEFAULT de Cliente Service
